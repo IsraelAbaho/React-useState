@@ -1,0 +1,12 @@
+.calc{
+    display: flex;
+    column-gap: 1rem;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+}
